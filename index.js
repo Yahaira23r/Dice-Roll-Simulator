@@ -50,4 +50,5 @@ buttonEl.addEventListener("click", () => {
     diceEl.classList.remove("roll-animation");
     rollDice();
   }, 1000);
+  
 });
